@@ -95,10 +95,9 @@ body {
   text-align: left;  /* Align text to the left */
   color: rgba(255, 255, 255, 0.8);  /* Slightly translucent text */
   width: auto;  /* Make the width auto so it shrinks to the content */
-  max-width: 205px;  /* Set a maximum width to keep it compact */
+  max-width: 250px;  /* Set a maximum width to keep it compact */
   margin-top: 10px;  /* Add some space from other elements */
 }
-
 
 /* Footer */
 footer {
